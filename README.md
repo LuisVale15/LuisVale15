@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o **Luis Vale**
+---
 
-<!--
-**LuisVale15/LuisVale15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias e Linguagens que Utilizo
 
-Here are some ideas to get you started:
+* **Java**
+* **C**
+* **C++**
+* **TypeScript**
+* **HTML**
+* 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
